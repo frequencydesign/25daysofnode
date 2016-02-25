@@ -1,0 +1,14 @@
+{
+  "name": "rate-contractor",
+  "version": "1.0.0",
+  "description": "Rate contractor utility",
+  "main": "rate-contractor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "contractor-db": "file:../contractor-db"
+  }
+}
