@@ -6,4 +6,4 @@ Going through the Thinkful 25 Days of Node so I can inform my students and know 
 .gitignore file:
 node_modules
 
-3 so far
+20% there
